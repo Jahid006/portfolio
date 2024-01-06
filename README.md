@@ -37,10 +37,9 @@ Multimodal Representation Learning, Embodied AI, Explainability and Reasoning in
 ## Under Review
    
 1. M. J. I. Basher, M. R. Noor and S. Shatabda(2023). Transformer-Based Bengali Handwritten Text Recognition with Self-Supervised Contrastive Pretraining. Submitted in Computers and Electrical Engineering.
-   Summary: A Transformer-based end-to-end pipeline that can recognize Bengali Handwritten text irrespective of the writer, background, and noise. Further adaption of SimCLR enables visual representation Learning from unlabeled data; elevating the performance of the basic-transformer pipeline across all datasets.
 2. Md. Zubair, Md. S. Salim, M. M. Rahman, M. J. I. Basher, S. Imran, and I. H. Sarker(2023). Agricultural Recommendation System based on Multivariate Weather Forecasting Model. Submitted in The International Journal of Intelligent Real-Time Automation.
-   Summary: An Agricultural Recommendation System utilizing a weather forecasting model to aid farmers in planting, irrigation, and harvesting decisions. It employs a stacked Bi-LSTM model trained on weather data from 35 stations in Bangladesh. The system offers context-based and knowledge-based agricultural recommendations based on weather forecasts.
 
+   
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
