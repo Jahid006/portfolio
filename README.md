@@ -36,8 +36,14 @@ Multimodal Representation Learning, Embodied AI, Explainability and Reasoning in
 
 ## Under Review
    
-1. M. J. I. Basher, M. R. Noor and S. Shatabda(2023). Transformer-Based Bengali Handwritten Text Recognition with Self-Supervised Contrastive Pretraining. Submitted in Computers and Electrical Engineering.
+1. M. J. I. Basher, M. R. Noor and S. Shatabda (2023). Transformer-Based Bengali Handwritten Text Recognition with Self-Supervised Contrastive Pretraining. Submitted in Computers and Electrical Engineering.
 2. Md. Zubair, Md. S. Salim, M. M. Rahman, M. J. I. Basher, S. Imran, and I. H. Sarker(2023). Agricultural Recommendation System based on Multivariate Weather Forecasting Model. Submitted in The International Journal of Intelligent Real-Time Automation.
+
+
+## Ongoing Research
+- Enhancing Color Image Security: A Fusion of Zero-Distortion Steganography and
+Cryptographic Algorithm
+- Parallel Linguistic Representation Learning
 
    
 ## Projects
