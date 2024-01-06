@@ -10,8 +10,8 @@
 ## Knowledge Set
 - Core Skills | Signal Processing, Numerical Analysis, Probability and Statistics, Machine Learning
 - Applied Domains | Natural Language Processing and Understanding, Language Modeling, Multi-Modal Representation Learning, Self-Supervised Learning, Data Compression, Human MoCap
-- ML Architectures | Variants of Transformer(BERT, GPT, Conformer, etc), Generative Modeling(VAE,
-GAN, WGAN), Neural ODE, RCNN Family, UNET, CNN, LSTM
+- ML Architectures | Variants of Transformer[BERT, GPT, Conformer, etc], Generative Modeling[VAE,
+GAN, WGAN], Neural ODE, RCNN Family, UNET, CNN, LSTM
 
 ## Research Interest
 Multimodal Representation Learning, Embodied AI, Explainability and Reasoning in LLM, Multimodal LLM
