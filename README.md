@@ -24,11 +24,10 @@ Multimodal Representation Learning, Embodied AI, Explainability and Reasoning in
 
 **AI Engineer @ Next Soluion Lab (_July 2022 - July 2023_)**
 - Hierarchical Graphical Relation Extraction from Unstructured Document: A Transformer-based Multimodal-Multitasker Model capable of capturing multi-level spatially-related semantic relationships among non-homogeneous entities from the predicted entity relationship(adjacency) matrix.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 **Associate AI Engineer @ Next Soluion Lab (_July 2021 - July 2022_)**
 - Table Structure ReGeneration for Structured Document: Adapting Wireframe Parsing framework in regenerating irregular tabular object for an OCR system.
-- Text Orientation Correction: Utilizing Data Compression(JPEG Compression and RLE) along with Residual Network to correct document orientation to increase the effectiveness of the OCR.
+- Text Orientation Correction: Utilizing Data Compression along with Residual Network to correct document orientation to increase the effectiveness of the OCR.
 
 ## Publications
 1. M. J. I. Basher, M. M. Hoque, S. Afroze.(2023). BnGraphemizer: A Grapheme-based Tokenizer for Bengali Handwritten Text Recognition.Published in 9th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering 2023 (IEEE WIECON-ECE 2023.
