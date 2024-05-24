@@ -8,13 +8,13 @@
 - Bachelor of Science in Computer Science and Engineering | Chittagong University of Engineering and Technology (_March 2022_)
 
 ## Knowledge Set
-#### Core Skills
-- Signal Processing, Numerical Analysis, Probability and Statistics, Machine Learning
-#### Applied Domains
-- Natural Language Processing and Understanding, Language Modeling, Multi-Modal Representation Learning, Self-Supervised Learning, Data Compression, Human MoCap
-#### ML Architectures
-- Variants of Transformer[BERT, GPT, Conformer, etc], Generative Modeling[VAE,
-GAN, WGAN], Neural ODE, RCNN Family, UNET, CNN, LSTM
+- Core Skills
+   - Signal Processing, Numerical Analysis, Probability and Statistics, Machine Learning
+- Applied Domains
+   - NLP, Speech Signal Processing, Multi-Modal Representation Learning, Self-Supervised Learning, Data Compression
+- ML Architectures
+   - Variants of Transformers (BERT, GPT, Conformer, etc), Generative Modeling (VAE,
+GAN, WGAN), Neural ODE, RCNN Family, UNET, CNN, LSTM
 
 ## Research Interest
 Multimodal Representation Learning, Embodied AI, VLM, Physics Informed Neural Network
