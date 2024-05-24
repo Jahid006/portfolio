@@ -2,10 +2,12 @@
 
 ## Skills
 - Languages: Python, C/C++, Java, Latex
-- Frameworks: Tensorflow, PyTorch, Keras, Numpy, SciPy, Pandas, SkLearn, Librosa, OpenCV, NLTK
+- ML Framework: PyTorch, PyTorch Lightning, Tensorflow, Keras, Huggingface
+- Library: Numpy, SciPy, Pandas, SkLearn, Librosa, OpenCV, NLTK
 
 ## Education	        		
-- Bachelor of Science in Computer Science and Engineering | Chittagong University of Engineering and Technology (_March 2022_)
+- Bachelor of Science in Computer Science and Engineering
+- Chittagong University of Engineering and Technology (_March 2022_)
 
 ## Knowledge Set
 - Core Skills
