@@ -1,7 +1,7 @@
 ## Machine Learning Engineer
 
 ## Skills
-- Languages: Python, C/C++, Java, Latex
+- Programming Language: Python, C/C++, Java, Latex
 - ML Framework: PyTorch, PyTorch Lightning, Tensorflow, Keras, Huggingface
 - Library: Numpy, SciPy, Pandas, SkLearn, Librosa, OpenCV, NLTK
 
