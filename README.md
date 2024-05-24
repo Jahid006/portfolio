@@ -1,7 +1,7 @@
 ## Machine Learning Engineer
 
 ## Skills
-#### Languages: Python, Julia, C/C++, Java
+#### Languages: Python, C/C++, Java, Latex
 #### Frameworks: Tensorflow, PyTorch, Keras, Numpy, SciPy, Pandas, SkLearn, Librosa, OpenCV, NLTK
 
 ## Education	        		
@@ -17,13 +17,14 @@
 GAN, WGAN], Neural ODE, RCNN Family, UNET, CNN, LSTM
 
 ## Research Interest
-Multimodal Representation Learning, Embodied AI, Explainability and Reasoning in LLM, Multimodal LLM
+Multimodal Representation Learning, Embodied AI, VLM, Physics Informed Neural Network
 
 ## Work Experience
 **NLP Engineer(Speech and Natural Language) @ Hishab Technologies Limited (_September 2023 - Present_)**
 - Conversation AI
+- Few-show Text to Speech Synthesis using GPT2 and Neural Audio Codec
+- Normalizing Flow-based Realtime Bengali Speech Synthesis
 - Multilingual NMT model to translate Indic to English Language and vice-versa
-- Generative Text Speech Synthesis for Bengali
 
 **AI Engineer @ Next Soluion Lab (_July 2022 - July 2023_)**
 - Hierarchical Graphical Relation Extraction from Unstructured Document: A Transformer-based Multimodal-Multitasker Model capable of capturing multi-level spatially-related semantic relationships among non-homogeneous entities from the predicted entity relationship(adjacency) matrix.
