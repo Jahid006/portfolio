@@ -21,7 +21,7 @@
    - Data Compression
 - ML Architectures
    - Variants of Transformers (BERT, GPT, Conformer, etc)
-   - Generative Modeling (VAE, GAN, WGAN)
+   - Generative Modeling (Normalizing Flows, VAE, GAN, WGAN)
    - Neural ODE
    - RCNN Family
    - UNET, CNN, LSTM
